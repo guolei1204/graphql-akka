@@ -4,3 +4,4 @@ tasks
 ~reStart
 clean
 ~reStart
+exit

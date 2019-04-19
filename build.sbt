@@ -1,4 +1,4 @@
-name := "howtographql-sangria"
+name := "graphql-akk"
 
 version := "1.0"
 
